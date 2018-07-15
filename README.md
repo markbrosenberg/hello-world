@@ -3,3 +3,6 @@ Mark Rosenberg's Programs
 
 In the editor, write a bit about yourself. 
 I have a Masters of Science in Electrical Engineering.
+
+
+This is text in the second iteration.
